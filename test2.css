@@ -276,3 +276,16 @@ form{
         display: none;
     }
 }
+.adv{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+    margin:1.5rem auto;
+}
+.adv a {
+    cursor: pointer;
+    background-color: #ACC8E5;
+}
+.adv a:hover{
+    text-decoration: underline;
+}
